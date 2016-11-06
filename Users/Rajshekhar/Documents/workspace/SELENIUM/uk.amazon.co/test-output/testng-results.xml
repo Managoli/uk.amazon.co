@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26665" started-at="2016-11-06T14:32:08Z" finished-at="2016-11-06T14:32:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26665" started-at="2016-11-06T14:32:08Z" finished-at="2016-11-06T14:32:35Z">
+      <class name="co.amazon.in.testScripts.SearchTest">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:co.amazon.in.testScripts.SearchTest@58651fd0]" name="openApp" is-config="true" duration-ms="9094" started-at="2016-11-06T20:02:08Z" finished-at="2016-11-06T20:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="search()[pri:0, instance:co.amazon.in.testScripts.SearchTest@58651fd0]" name="search" duration-ms="17550" started-at="2016-11-06T20:02:17Z" finished-at="2016-11-06T20:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:co.amazon.in.testScripts.SearchTest@58651fd0]" name="tearDown" is-config="true" duration-ms="1" started-at="2016-11-06T20:02:35Z" finished-at="2016-11-06T20:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.amazon.in.testScripts.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
